@@ -9,8 +9,11 @@ As of february 2021, I've bought a copy of Bjarne Stroustrup's _Programming: Pri
 
 ## Goals
 
-As of february 2021, my only goal is to become proficient using C++'s core features and libraries. Maybe later I will tackle something more specific, like Boost, Qt, Vulkan, Networking... 
+As of february 2021, my only goal is to become proficient using C++'s core features and techniques, such as RAII, STL, etc. Maybe later I will tackle something more specific, like Boost, Qt, Vulkan, Networking... 
 
 ## What I've accomplished so far
 
-**February 14 2021:** Started learning C++
+|       Date       |        Events & Milestones        |
+|:----------------:|:---------------------------------:|
+| February 14 2021 |        Started learning C++       |
+|   March 1 2021   | Started solving Leetcode problems |
